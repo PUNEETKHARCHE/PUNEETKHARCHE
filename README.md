@@ -54,9 +54,17 @@ Looking for a **Data Analyst** or **Junior Data Engineer** eager to contribute a
 ---
 
 ## ✨ Why Choose Me?
+
+## ✨ Why Choose Me?
+
 - **Entry-Level Enthusiasm**: Motivated to learn and apply my skills to real-world challenges.  
 - **Data-Driven Approach**: Focused on providing solutions that drive measurable results.  
 - **Blending Finance & Data**: Unique ability to combine financial insights with data analysis techniques.  
+- **Real-World Impact**: Delivered dashboards, automated workflows, and actionable insights at **Orangecode Logics Pvt Ltd** and **BTech Loan_Wala**.  
+- **Proven Skills**: Expert in **Python**, **SQL**, **Power BI**, and **Tableau** to solve practical business challenges.  
+- **Finance-Savvy Analyst**: Combined data expertise with financial knowledge to optimize workflows and drive decisions.  
+- **Results-Driven**: Focused on delivering measurable outcomes that align with business goals.  
+- **Adaptable Learner**: Quick to learn, grow, and tackle new challenges with a problem-solving mindset.  
 
 ---
 
