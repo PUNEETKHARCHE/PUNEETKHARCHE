@@ -55,7 +55,6 @@ Looking for a **Data Analyst** or **Junior Data Engineer** eager to contribute a
 
 ## ✨ Why Choose Me?
 
-- **Entry-Level Enthusiasm**: Motivated to learn and apply my skills to real-world challenges.  
 - **Data-Driven Approach**: Focused on providing solutions that drive measurable results.  
 - **Blending Finance & Data**: Unique ability to combine financial insights with data analysis techniques.  
 - **Real-World Impact**: Delivered dashboards, automated workflows, and actionable insights at **Orangecode Logics Pvt Ltd** and **BTech Loan_Wala**.  
